@@ -1,0 +1,54 @@
+body {
+    margin: 1em 10%;
+    background-color: #ccc;
+    color: #333;
+    font-family: "微软雅黑", "Arial", serif;
+}
+
+h1 {
+    color: #333;
+    background-color: transparent;
+}
+
+a {
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#imagegallery {
+    zoom: 1;
+    overflow: hidden;
+    list-style: none;
+}
+
+#imagegallery li {
+    float: left;
+    margin-right: 1em;
+}
+
+#imagegallery li a {
+    display: block;
+    width: 70px;
+    height: 70px;
+}
+
+#imagegallery li a img {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+#placeholder {
+    display: block;
+    width: 300px;
+    height: 300px;
+}
