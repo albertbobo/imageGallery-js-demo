@@ -1,5 +1,5 @@
-## About
+# imageGallery-js-demo
 
-优化的图片库demo，实现点击缩略图切换查看大图
+一个优化的图片库demo，实现点击缩略图切换查看大图
 
-预览地址：https://albertbobo.github.io/imageGallery-js-demo
+[戳我演示Demo](https://albertbobo.github.io/imageGallery-js-demo)
